@@ -507,7 +507,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const authUrl = 'https://presales1.businessbywire.com/restapigold8demo/oauth2/token';
       const authPayload = {
         userName: 'james@crmnext.com',
-        password: 'Chief@admin2025'
+        password: 'Autonomous@2026'
       };
 
       const authResponse = await fetch(authUrl, {
