@@ -39,7 +39,7 @@ app.post('/api/create-case', async (req, res) => {
     const authUrl = 'https://presales1.businessbywire.com/restapigold8demo/oauth2/token';
     const authPayload = {
       userName: 'james@crmnext.com',
-      password: 'Chief@admin2025'
+      password: 'Autonomous@2026'
     };
 
     console.log('Authenticating with CRM API...');
